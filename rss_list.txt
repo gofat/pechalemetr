@@ -1,0 +1,8 @@
+site, url
+lenta, https://lenta.ru/rss/news
+yandex_news, https://news.yandex.ru/index.rss
+gazeta, https://www.gazeta.ru/export/rss/first.xml
+rambler_news, https://news.rambler.ru/rss/head/
+rbc, http://static.feed.rbc.ru/rbc/logical/footer/news.rss
+regnum, https://regnum.ru/rss/news
+kommersant, http://www.kommersant.ru/RSS/main.xml
